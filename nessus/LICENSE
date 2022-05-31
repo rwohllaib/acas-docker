@@ -1,0 +1,283 @@
+THE RED HAT ENTERPRISE AGREEMENT   
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE PURCHASING AND/OR USING SOFTWARE OR SERVICES FROM RED HAT. 
+BY USING RED HAT SOFTWARE OR SERVICES, CLIENT SIGNIFIES ITS ASSENT TO AND ACCEPTANCE OF THIS AGREEMENT AND 
+ACKNOWLEDGES  IT  HAS  READ AND  UNDERSTANDS  THIS  AGREEMENT. AN  INDIVIDUAL ACTING  ON  BEHALF  OF AN  ENTITY 
+REPRESENTS THAT HE OR SHE HAS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF THAT ENTITY. IF CLIENT 
+DOES  NOT ACCEPT  THE  TERMS  OF  THIS AGREEMENT,  THEN  IT  MUST  NOT  USE  RED  HAT  SOFTWARE  OR  SERVICES.  THIS 
+AGREEMENT INCORPORATES THE PRODUCT APPENDICES REFERENCED BY URL IN THIS AGREEMENT. 
+ 
+This Red Hat Enterprise Agreement is between the Client and Red Hat, Inc. (“Red Hat”) and addresses unique commercial considerations that 
+apply to Red Hat Products, open source software, and our subscription business model. 
+  
+1. The Mechanics of the Agreement 
+1.1 Ordering. The Agreement applies to Red Hat Products that you purchase or for which you acquire the right to access or use, including 
+Subscriptions, Professional Services, Training Services, access to Red Hat Online Properties and other Red Hat offerings, whether obtained 
+directly from Red Hat or from a Red Hat Business Partner. You may order Red Hat Products directly from Red Hat by submitting an Order 
+Form or from a Red Hat Business Partner using the Business Partner’s ordering procedure.  Affiliates of either party may conduct business 
+under this Agreement by signing an Order Form or other document that references these General Terms and may include additional terms 
+relating to local requirements or other transaction details. 
+1.2 Structure.  The Agreement consists of three components: (1) the General Terms; (2) the Product Appendices (which may include end user 
+license agreements) applicable to Your Products; and (3) if applicable, all Order Forms.  Certain terms are defined in the General Terms or in 
+the Definitions section at the end of the General Terms.  If you order Red Hat Products from a Business Partner, then any agreement that you 
+enter into with the Business Partner is solely between you and the Business Partner and will not be binding on Red Hat. 
+ 
+2. Term 
+2.1 Agreement Term. The Agreement begins on the Effective Date and continues until it is terminated as set forth below.   
+2.2 Services Term. Unless otherwise agreed in writing, the Service that you order will start at the earlier of (a) your first use of the Service, (b) the 
+date you purchased the Service, or (c) the start date contained in the Order Form, and, in each case, will end at the expiration of the Services 
+Term unless sooner terminated as set forth below.  Subscriptions automatically renew for successive terms of the same duration as the 
+original Services Term, unless either party gives written notice to the other party of its intention not to renew at least thirty (30) days before the 
+expiration of the applicable Services Term. Any Services that you order must be consumed during the applicable Services Term and any 
+unused Services will expire. 
+ 
+3. Fees and Payment 
+3.1 Payment of Fees.  Section 3.1 applies only to Red Hat Products ordered directly from Red Hat.  The payment terms applicable to Red Hat 
+Products purchased from a Business Partner are included in your Business Partner agreement. 
+a) Unless otherwise set forth in an Order Form, you agree to pay Fees (1) for Professional Services and Training Services at the time of 
+your order; and (2) for Subscriptions no later than 30 days after the date of Red Hat’s invoice.  Credit is subject to Red Hat’s approval 
+and Red Hat may change credit terms.   
+b) Fees do not include reasonable out-of-pocket expenses, shipping costs, Taxes, or service provider fees (such as payment processor or 
+vendor management) and you agree to pay such amounts or reimburse Red Hat for such amounts paid or payable by Red Hat.  You 
+must pay the Fees and expenses without withholding or deduction.  If you are required to withhold or deduct any Taxes from the Fees or 
+expenses, then you agree to increase the amount payable to Red Hat by the amount of such Taxes so that Red Hat receives the full 
+amount of all Fees and expenses.  All Fees, expenses and other amounts paid under the Agreement are non-refundable.  
+c) If you are purchasing by credit card, then you (1) authorize Red Hat to charge your credit card for all amounts due, and (2) agree to 
+provide updated credit card information to Red Hat as needed to pay the Fees or other amounts owed. 
+3.2 Basis of Fees. Fees are determined by counting the Units associated with the applicable Red Hat Product. For example, Subscriptions may 
+be priced based on the number of systems or nodes. You agree to order and pay for the appropriate type and quantity of Red Hat Products 
+based on the Units you use or deploy. If during the term of the Agreement, the actual number of Units you use or deploy exceeds the number 
+of Units you have ordered and paid for, you must promptly report to Red Hat or a Business Partner the number of additional Units used or 
+deployed and the date(s) on which they were used or deployed. Red Hat (or the Business Partner) will invoice you and you agree to pay for 
+the additional Units in accordance with your approved payment terms.  
+ 
+4. Termination 
+4.1 Termination for Cause.  Either party may terminate this Agreement (in whole or with respect to any Order Form or Red Hat Product obtained 
+from Red Hat or a Business Partner) by notice to the other party if (a) the other party materially breaches this Agreement, and does not cure 
+the breach within thirty (30) days after written notice (except in the case of a breach of Section 9 in which case no cure period will apply), or (b) 
+the other party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or 
+assignment for the benefit of creditors.  In addition, Red Hat may, at its option and without limiting its other remedies, suspend (rather than 
+terminate) any Services if you breach the Agreement (including with respect to payment of Fees) until the breach is remedied.  
+4.2 Termination for Convenience.  Either party may terminate the Agreement by notice to the other party at any time if all Services Terms have 
+expired.  
+4.3 Effect of Termination; Survival.  The termination or suspension of an individual Order Form, Business Partner order or any Red Hat 
+Products purchased from Red Hat or a Business Partner will not terminate or suspend any other Order Form, Business Partner order, Red Hat 
+Product or the remainder of the Agreement unless specified in the notice of termination or suspension.  If the Agreement is terminated in 
+whole, all outstanding Order Form(s), Business Partner orders and Services will terminate.  If this Agreement, any Order Form or Business 
+Partner order is terminated, you agree to pay for all Units that you used or deployed or that were provided by Red Hat up to the effective date 
+of termination.  Sections 1.2, 3, 4.3, 5.2, 5.3, 9 (to the extent set forth therein), 10, 11 (to the extent set forth therein) and 12-15 will survive the 
+termination of this Agreement.  
+ 
+5. Representations and Warranties 
+5.1 Red Hat represents and warrants that (a) it has the authority to enter into this Agreement, (b) the Services will be performed in a professional 
+and workmanlike manner by qualified personnel, (c) to its knowledge, the Software does not, at the time of delivery to you, include malicious 
+mechanisms or code for the purpose of damaging or corrupting the Software and (d) the Services will comply in all material respects with laws 
+applicable to Red Hat as the provider of the Services.  Client represents and warrants that (a) it has the authority to enter into this Agreement, 
+and (b) its use of Red Hat Products will comply with all applicable laws, and it will not use the Red Hat Products for any illegal activity. 
+5.2 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND EXCEPT AS EXPRESSLY PROVIDED IN SECTION 5.1, THE RED 
+HAT PRODUCTS ARE PROVIDED “AS IS” AND WITHOUT ANY REPRESENTATIONS OR WARRANTIES EXPRESS OR IMPLIED, AND 
+RED  HAT  DISCLAIMS  ALL  SUCH  REPRESENTATIONS  AND  WARRANTIES,  INCLUDING  THE  IMPLIED  WARRANTIES  OF 
+MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY THE 
+COURSE OF DEALING OR USAGE OF TRADE.  RED HAT AND ITS SUPPLIERS DO NOT REPRESENT OR WARRANT THAT THE RED 
+HAT PRODUCTS WILL BE UNINTERRUPTED, SECURE, ERROR FREE, ACCURATE OR COMPLETE OR COMPLY WITH REGULATORY 
+REQUIREMENTS, OR THAT RED HAT WILL CORRECT ALL ERRORS. IN THE EVENT OF A BREACH OF THE WARRANTIES SET FORTH 
+IN  SECTION  5.1,  YOUR  EXCLUSIVE  REMEDY,  AND  RED  HAT’S  ENTIRE  LIABILITY,  WILL  BE  THE  RE-PERFORMANCE  OR  RE-
+DELIVERY  OF  THE  DEFICIENT  RED  HAT  PRODUCT,  OR  IF  RED  HAT  CANNOT  SUBSTANTIALLY  CORRECT  A  BREACH  IN  A 
+COMMERCIALLY  REASONABLE  MANNER,  TERMINATION  OF  THE  RELEVANT  RED  HAT  PRODUCT,  IN  WHICH  CASE  YOU  MAY 
+RECEIVE A PRO RATA REFUND OF THE FEES PAID FOR THE DEFICIENT RED HAT PRODUCT AS OF THE EFFECTIVE DATE OF 
+TERMINATION.   
+5.3 The Red Hat Products have not been tested in all situations under which they may be used. Red Hat will not be liable for the results obtained 
+through use of the Red Hat Products and you are solely responsible for determining appropriate uses for the Red Hat Products and for all 
+results of such use.  In particular, Red Hat Products are not specifically designed, manufactured or intended for use in (a) the design, planning, 
+construction, maintenance, control, or direct operation of nuclear facilities, (b) aircraft control, navigation, or communication systems (c) 
+weapons systems, (d) direct life support systems (e) or other similar hazardous environments.   
+ 
+6. Open Source Assurance. Purchases of Subscriptions may entitle you to participate in Red Hat’s Open Source Assurance Program, which 
+is described at http://www.redhat.com/rhel/details/assurance/ and provides certain protections in the event of a third party infringement claim. 
+The terms for this optional program are subject to the agreement at http://www.redhat.com/legal/open_source_assurance_agreement.html. 
+ 
+7. Red Hat Online Properties. You may be required to create an Account to access Red Hat Online Properties. You agree to provide 
+accurate information when creating an Account.  You may not access or create multiple accounts in a manner that is intended to avoid, or has 
+the effect of avoiding, payment of Fees or circumventing thresholds or Unit limitations associated with your Account or otherwise in a manner 
+intended to violate the Agreement. You are solely responsible for all activities in connection with your Account and will notify Red Hat promptly 
+if you become aware of any unauthorized use of your Account.  Your use of and access to the Red Hat Online Properties may also be subject 
+to the Product Appendices applicable to the Red Hat Product. 
+ 
+8. Evaluations. Red Hat may offer Evaluation Subscriptions for evaluation and not for production purposes.  Evaluation Subscriptions may be 
+provided with limited or no support or subject to other limitations. 
+ 
+9. Confidentiality 
+9.1 Recipient (a) may not disclose Confidential Information of a Discloser to any third party unless Discloser approves the disclosure in writing or 
+the disclosure is otherwise permitted under this Section 9; (b) will use the same degree of care to protect Confidential Information of Discloser 
+as it uses to protect its own confidential information of a similar nature, but in no event less than reasonable care; and (c) may disclose 
+Confidential Information of the Discloser only to its employees, Affiliates, agents and contractors with a need to know, and to its auditors and 
+legal counsel, in each case, who are under a written obligation (or other professional obligation) to keep such information confidential using 
+standards of confidentiality no less restrictive than those required by this Section 9. These obligations will continue for a period of two (2) years 
+following initial disclosure of the particular Confidential Information.  A Recipient may disclose Confidential Information if it is required to do so 
+by applicable law, regulation or court order but, where legally permissible, will provide advance notice to the Discloser to enable the Discloser 
+to  seek  a  protective  order  or  other  similar  protection  if  feasible.    “Recipient”  is  the  party  receiving  Confidential  Information  under  this 
+Agreement.  “Discloser” is a party disclosing Confidential Information under this Agreement. 
+9.2 Information is not Confidential Information, if: (a) the information is or becomes publicly available other than as a result of the Recipient’s 
+breach of this Agreement, (b) the Recipient, at the time of disclosure, knows or possesses the information without obligation of confidentiality 
+or thereafter obtains the information from a third party not under an obligation of confidentiality; (c) the Recipient independently develops the 
+information without use of the Discloser’s Confidential Information,  (d) the information is generally known or easily developed by someone 
+with ordinary skills in the business of the Recipient, or (e) the information is licensed under an Open Source License (as defined by the Open 
+Source Initiative (https://opensource.org/)). 
+9.3 Confidential Information that is disclosed prior to termination of this Agreement will remain subject to this Agreement for the period set forth 
+above. Upon written request of the Discloser, the Recipient will promptly return or destroy all Confidential Information, except for Confidential 
+Information stored in routine back-up media not accessible during the ordinary course of business. 
+ 
+10. Client Information, Feedback, Reservation of Rights, & Review  
+10.1 Client Information.  If you provide Client Information in connection with your use of or access to Red Hat Products, you agree that, subject to 
+Section 9, Red Hat, its Affiliates, and Suppliers may use such Client Information in connection with providing the Red Hat Products.  You agree 
+that your provision (and Red Hat’s use) of Client Information under this Agreement does not require any additional consents or licenses, will be 
+in compliance with applicable law, and will not violate any intellectual property, proprietary, privacy, or other right of any third party.  As between 
+Red Hat and you, you retain all other rights in and to Client Information. 
+10.2 Feedback.  You may be asked to voluntarily provide Red Hat with Feedback in connection with Red Hat Products, but have no obligation to do 
+so.  If you choose to do so, Red Hat may use Feedback for any purpose, including incorporating the Feedback into, or using the Feedback to 
+develop and improve Red Hat Products and other Red Hat offerings without attribution or compensation. You grant Red Hat a perpetual and 
+irrevocable license to use all Feedback for any purpose.  You agree to provide Feedback to Red Hat only in compliance with applicable laws 
+and you represent that you have the authority to provide the Feedback and that Feedback will not include proprietary information of a third 
+party.   
+10.3 Reservation of Rights.  Red Hat grants to you only those rights expressly granted in the Agreement with respect to the Red Hat Products and 
+reserves all other rights in and to the Red Hat Products (including all intellectual property rights).  Red Hat may collect and use for any 
+purpose aggregate anonymous benchmark data about your use of the Red Hat Products. Nothing in this Agreement will limit Red Hat from 
+providing software, materials, or services for itself or other clients, irrespective of the possible similarity of such software, materials or services 
+to those that might be delivered to you. The terms of Section 9 will not prohibit or restrict either party's right to develop, use or market products 
+or  services  similar  to  or  competitive  with  the  other  party;  provided,  however,  that  neither  party  is  relieved  of  its  obligations  under  this 
+Agreement.  
+ 
+11. Review. While this Agreement is in effect and for one year thereafter, Red Hat or its designee, acting in accordance with Section 9, may 
+inspect your facilities and records to verify your compliance with this Agreement. You agree to (a) respond promptly to requests for information, 
+documents and/or records, (b) grant appropriate access for on-site visits in order to verify your compliance, and (c) reasonably cooperate in 
+connection with any such verification.  Red Hat will provide at least ten (10) days prior written notice for any on-site visits, and will conduct on-
+site visits during regular business hours in a manner that reasonably minimizes interference with your business.  If Red Hat notifies you of any 
+noncompliance or underpayment, then you will resolve the non-compliance and/or underpayment within fifteen (15) days from the date of 
+notice.  If the underpayment exceeds five percent (5%), then you will also reimburse Red Hat for the cost of the inspection.   
+ 
+12. Limitations 
+12.1 DISCLAIMER OF DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER PARTY, NOR ITS AFFILIATES, 
+WILL BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY OR PUNITIVE DAMAGES, OR FOR ANY 
+DAMAGES FOR LOST OR DAMAGED DATA, LOST PROFITS, LOST SAVINGS OR BUSINESS OR SERVICE INTERRUPTION, EVEN IF 
+SUCH  PARTY WAS ADVISED OF THE  POSSIBILITY OF SUCH  DAMAGES, AND  REGARDLESS  OF  THE  FAILURE  OF  ESSENTIAL 
+PURPOSE OF ANY LIMITED REMEDY. 
+ 
+12.2 LIMITATION OF LIABILITY.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, RED HAT’S AND ITS AFFILIATES’ TOTAL 
+AND AGGREGATE LIABILITY WITH RESPECT TO ANY CLAIM RELATING TO OR ARISING OUT OF THIS AGREEMENT WILL NOT 
+EXCEED THE FEES RECEIVED BY RED HAT WITH RESPECT TO THE PARTICULAR RED HAT PRODUCT  GIVING RISE TO LIABILITY 
+UNDER THE MOST APPLICABLE ORDERING DOCUMENT DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE FIRST 
+EVENT GIVING RISE TO SUCH CLAIM; PROVIDED THAT IN NO EVENT WILL RED HAT’S AND ITS AFFILIATES’ TOTAL CUMULATIVE 
+LIABILITY FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT EXCEED THE FEES RECEIVED BY RED HAT 
+DURING  THE  TWELVE  (12)  MONTHS  IMMEDIATELY  PRECEDING  THE  FIRST  EVENT  GIVING  RISE  TO  LIABILITY  UNDER  THIS 
+AGREEMENT. THIS LIMITATION APPLIES REGARDLESS OF THE NATURE OF THE CLAIM, WHETHER CONTRACT, TORT (INCLUDING 
+NEGLIGENCE), STATUTE OR OTHER LEGAL THEORY. THESE LIMITATIONS DO NOT LIMIT CLAIMS OF BODILY INJURY (INCLUDING 
+DEATH) AND  DAMAGE  TO  REAL  OR  TANGIBLE  PERSONAL  PROPERTY  CAUSED  BY  THE  NEGLIGENCE  OF  RED  HAT  OR  ITS 
+AFFILIATES. 
+ 
+13. Governing Law and Claims. The Agreement, and any claim, controversy or dispute related to the Agreement, are governed by and 
+construed in accordance with the laws of the State of New York without giving effect to any conflicts of laws provisions. To  the extent 
+permissible, the United Nations Convention on Contracts for the International Sale of Goods will not apply, even if adopted as part of the laws 
+of the State of New York. Any claim, suit, action or proceeding arising out of or relating to this Agreement or its subject matter will be brought 
+exclusively in the state or federal courts of Wake County, North Carolina, and each party irrevocably submits to the exclusive jurisdiction and 
+venue. No claim or action, regardless of form, arising out of this Agreement may be brought by either party more than one (1) year after the 
+party first became aware, or reasonably should have been aware, of the basis for the claim.  To the fullest extent permitted, each party waives 
+the right to trial by jury in any legal proceeding arising out of or relating to this Agreement or the transactions contemplated hereby. 
+ 
+14. Miscellaneous 
+14.1 Export.  Red Hat may supply you with Controlled Materials.  You agree to comply with all applicable export and import laws or regulations, 
+including any local laws in your jurisdiction concerning your right to import, export or use Controlled Materials and agree that Red Hat is not 
+responsible  for  your  compliance.    Without  limiting  the  foregoing,  you  agree  that  you  will  not  export,  disclose,  re-export  or  transfer  the 
+Controlled Materials, directly or indirectly, to: (a) any U.S. embargoed destination; (b) any party who you know or have reason to know will 
+utilize them in the design, development or production of nuclear, chemical or biological weapons, or rocket systems, space launch vehicles, or 
+sounding rockets, unmanned air vehicle systems, or any other restricted end-use; or (c) anyone on (or controlled by a person or entity on) a 
+U.S. government restricted persons list, including those who have been prohibited from participating in U.S. export transactions by any federal 
+agency of the U.S. government.  You will not provide to Red Hat any data or engage Red Hat in any activity, in each case, that could constitute 
+the development of a “defense article” or provision of a “defense service” to you, as these terms are defined in Section 120 of the International 
+Traffic in Arms Regulations (ITAR).  In addition, you will not, and will not allow third parties under your control, (i) to provide Red Hat with Client 
+Information that requires an export license under applicable export control laws or (ii) to process or store any Client Information that is subject 
+to the ITAR.  If you breach (or Red Hat believes you have breached) this paragraph or the export provisions of an end user license agreement 
+for any Software or Red Hat is prohibited by law or otherwise restricted from providing Red Hat Products to you, Red Hat may terminate this 
+Agreement and/or the applicable Order Form without liability to you.  You acknowledge that to provide the Services, it may be necessary for 
+Client Information to be transferred between Red Hat, its Affiliates, Business Partners, vendors and/or subcontractors, which may be located 
+worldwide. 
+14.2 Notices. Notices must be in English, in writing, and will be deemed given upon receipt, after being sent using a method that provides for 
+positive confirmation of delivery to the address(es) or email address provided by you, including through an automated receipt or by electronic 
+log. Any notice from you to Red Hat must include a copy sent to: Red Hat, Inc., Attention: General Counsel, 100 East Davie Street, Raleigh, 
+North Carolina 27601; Email: legal-notices@redhat.com. Billing notices to you will be addressed to the billing contact designated by you. 
+14.3 Assignment.  Either  party  may  upon  written  notice:  (a)  assign  this  Agreement  to  an  Affiliate  if  the  Affiliate’s  financial  condition  and 
+creditworthiness are sufficient to satisfy the assigning party’s obligations under the Agreement and the assignment will not affect the non-
+assigning party’s obligations under the Agreement; and (b) assign this Agreement to a successor or acquirer pursuant to a merger or sale of all 
+or substantially all of such party’s assets. Any other assignment will be deemed void and ineffective without the prior written consent of the 
+other party.  Subject to the foregoing, this Agreement will be binding upon and will inure to the benefit of the parties and their respective 
+successors and permitted assigns. 
+14.4 Waiver. A waiver by a party under this Agreement is only valid if in writing and signed by an authorized representative of such party.  A delay or 
+failure of a party to exercise any rights under this Agreement will not constitute or be deemed a waiver or forfeiture of such rights. 
+14.5 Independent Contractors. The parties are independent contractors and nothing in this Agreement creates an employment, partnership or 
+agency relationship between the parties or any Affiliate. Each party is solely responsible for supervision, control and payment of its personnel. 
+Red Hat may subcontract Services to third parties or Affiliates as long as (a) subcontractors agree to protect Confidential Information and (b) 
+Red Hat remains responsible to you for performance of its obligations. 
+14.6 Third  Party  Beneficiaries.  This Agreement  is  binding  on  the  parties  to  this Agreement  and,  other  than  as  expressly  provided  in  the 
+Agreement, nothing in this Agreement grants any other person or entity any right, benefit or remedy. 
+14.7 Force Majeure. Neither party is responsible for nonperformance or delay in performance of its obligations (other than payment of Fees) due to 
+causes beyond its reasonable control.  
+14.8 Complete Agreement and Order of Precedence. The Agreement represents the complete agreement between the parties with respect to its 
+subject matter and supersedes all prior and contemporaneous agreements and proposals, whether written or oral, with respect to such subject 
+matter.  Any terms contained in any other documentation that you deliver to Red Hat, including any purchase order or other order-related 
+document (other than an Order Form), are void and will not become part of the Agreement or otherwise bind the parties.  If there is a conflict 
+between the General Terms, the  Product Appendices and/or an Order Form, the General Terms will  control  unless otherwise expressly 
+provided in the Product Appendices and/or Order Form.   
+14.9 Counterparts. This Agreement may be executed in counterparts, each of which will be deemed an original and all of which will constitute one 
+and the same document. The parties may exchange signature pages by email or electronic signature process and such signatures will be 
+effective to bind the parties to the Agreement.  
+14.10 Severable. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid or unenforceable, the remaining 
+provisions of this Agreement will remain in effect to the greatest extent permitted by law. 
+14.11 United States Government End Users. The Software and its documentation are "Commercial items," "Commercial computer software" and 
+"Computer software documentation" as defined by the Federal Acquisition Regulations (“FAR”) and Defense Federal Acquisition Regulations 
+Supplement  (“DFARS”). Pursuant to FAR 12.211, FAR 12.212, DFARS, 227.7202-1 through 227.7202-4, and their successors, the U.S. 
+Government acquires the Software and its documentation subject to the terms of this Agreement. 
+ 
+15.  Definitions 
+15.1 “Account” means an account that enables you to access and use Red Hat Online Properties and may include a user name and password or 
+other means of access designated by Red Hat.  
+15.2 “Affiliate” means an entity that owns or controls, is owned or controlled by, or is under common control or ownership with a party, where 
+“control” is the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of an entity, 
+whether through ownership of voting securities, by contract or otherwise. 
+15.3 “Business Partner” means a cloud provider, distributor, reseller, OEM or other third party authorized to resell or distribute Red Hat Products.  
+15.4 “Business Partner order” means an order for a Red Hat Product placed through a Business Partner. 
+15.5 “Client”  or “you” means the person or entity acquiring the right to use or access the  Red Hat Products  and which is a party to this 
+Agreement.  
+15.6 “Client Information” means any data, information, software or other materials that you provide to Red Hat under the Agreement. 
+15.7 “Confidential Information” means information disclosed by the Discloser to the Recipient during the term of the Agreement that (i) is marked 
+confidential; (ii) if disclosed orally, is clearly described as confidential at the time of disclosure and is subsequently set forth in writing, marked 
+confidential, and sent to the Recipient within thirty (30) days following the oral disclosure; or (iii) is of a nature that the Recipient knows is 
+confidential to the Discloser or should reasonably be expected to know is confidential. 
+15.8 “Controlled Materials” mean software or technical information that is subject to the United States Export Administration Regulation. 
+15.9 “Effective Date” means earliest of (a) the date of the last signature on this Agreement or an Order Form, (b) your online acceptance of the 
+Agreement, and (c) when you first receive access to a Red Hat Product. 
+15.10 “Evaluation Subscriptions” means Red Hat Products offered without charge solely for evaluation and not for production purposes, including 
+offerings described as “evaluation”, “preview” or “beta”. 
+15.11 “Feedback” means any ideas, suggestions, proposals or other feedback you may provide regarding Red Hat Products. 
+15.12 “Fees” are the amounts to be paid by Client to Red Hat (directly or through a Business Partner) for the Red Hat Products.  
+15.13 “General Terms” means the terms contained in Sections 1 – 15 of this document. 
+15.14 “Online Subscriptions” means Subscriptions to one of the Red Hat Online Properties. 
+15.15 “Order Form” is Red Hat’s standard ordering document or online purchasing form used to order Red Hat Products. 
+15.16 “Product Appendices” means the Red Hat Product Appendices set forth here: https://www.redhat.com/en/about/agreements#prodapps, or (b) 
+for Professional Services, that are incorporated into an applicable statement of work.   
+15.17 “Professional Services” means consulting services provided by Red Hat. 
+15.18 “Red Hat Online Properties” mean Red Hat websites, portals and hosted Services included in, or provided in connection with, Red Hat 
+Products. 
+15.19 “Red Hat Products” means Software, Services, Subscriptions and other Red Hat branded offerings made available by Red Hat. 
+15.20 “Service(s)” means Red Hat branded services offered as Subscriptions, Professional Services, Training Services, access to Red Hat Online 
+Properties or other services offered by Red Hat. 
+15.21 “Services Term” means the period during which you are entitled by Red Hat to use, receive access or consume a particular Red Hat Product 
+pursuant to an Order Form or Business Partner order.  
+15.22 “Software” means Red Hat branded software that is included in Red Hat Product offerings. 
+15.23  “Subscription” means a time bound Red Hat Services offering, other than Professional Services. 
+15.24 “Supplier” means a third party that provides service(s) to Red Hat in order for Red Hat to offer Services to its customers and/or Business 
+Partners. 
+15.25 “Taxes” means any form of taxation of whatever nature and by whatever authority imposed, including any interest, surcharges or penalties, 
+arising from or relating to this Agreement or any Red Hat Products, other than taxes based on the net income of Red Hat. 
+15.26 “Training Services” means access to Red Hat training courses, including online courses or courses provided at a site as may be agreed by 
+the parties. 
+15.27 “Unit” means the basis upon which Fees are determined for Red Hat Products as set forth in Product Appendices or an Order Form. 
+15.28 “Your Products” means the Red Hat Products that you have purchased, licensed, or otherwise acquired the right to access or use. 
+ 
