@@ -1,0 +1,44 @@
+---
+apiVersion: v1
+
+# The repository name in registry1, excluding /ironbank/
+name: "opensource/tennable/sc"
+
+# List of tags to push for the repository in registry1
+# The most specific version should be the first tag and will be shown
+# on ironbank.dsop.io
+tags:
+- "1"
+- "latest"
+
+# Build args passed to Dockerfile ARGs
+args:
+  BASE_IMAGE: "redhat/ubi/ubi8"
+  BASE_TAG: "8.5"
+
+# Docker image labels
+labels:
+  org.opencontainers.image.title: "ACAS tenable.sc"
+  org.opencontainers.image.description: "ACAS tenable.sc 5.19 container running on RHEL UBI 8"
+  org.opencontainers.image.licenses: " "
+  org.opencontainers.image.url: " "
+  org.opencontainers.image.vendor: "RHEL"
+  org.opencontainers.image.version: "1"
+  mil.dso.ironbank.image.keywords: "acas, sc, tennable, securitycenter, tennable.sc"
+  mil.dso.ironbank.image.type: "opensource"
+  mil.dso.ironbank.product.name: "ACAS tenable.sc"
+
+# resources:
+# This file is commented out because dockerone cannot authenticat to patches.csd.disa.mil as a 2FA site
+# - filename: CM-267388-SecurityCenter-5.19.0-el8.x86_64.rpm
+#   url: https://patches.csd.disa.mil/
+#   validation:
+#    type: sha256
+#    value: af25a2c2e3905119532ab4ce9d6b68073dccbccc07062493034a7bb3f482996a
+
+# List of project maintainers
+maintainers:
+- email: "610098@bah.com"
+  name: "Rob Wohllaib"
+  username: "rwohllaib"
+  cht_member: false
